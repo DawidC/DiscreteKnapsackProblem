@@ -1,0 +1,6 @@
+E:\Projects\C#\DiscreteKnapsackProblem\DiscreteKnapsackProblem\bin\Debug\DiscreteKnapsackProblem.exe.config
+E:\Projects\C#\DiscreteKnapsackProblem\DiscreteKnapsackProblem\bin\Debug\DiscreteKnapsackProblem.exe
+E:\Projects\C#\DiscreteKnapsackProblem\DiscreteKnapsackProblem\bin\Debug\DiscreteKnapsackProblem.pdb
+E:\Projects\C#\DiscreteKnapsackProblem\DiscreteKnapsackProblem\obj\Debug\DiscreteKnapsackProblem.csprojResolveAssemblyReference.cache
+E:\Projects\C#\DiscreteKnapsackProblem\DiscreteKnapsackProblem\obj\Debug\DiscreteKnapsackProblem.exe
+E:\Projects\C#\DiscreteKnapsackProblem\DiscreteKnapsackProblem\obj\Debug\DiscreteKnapsackProblem.pdb
